@@ -1,0 +1,3 @@
+C:/Users/ethan/CLionProjects/Encrypted Text Editor/cmake-build-debug/CMakeFiles/Encrypted_Text_Editor.dir
+C:/Users/ethan/CLionProjects/Encrypted Text Editor/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/ethan/CLionProjects/Encrypted Text Editor/cmake-build-debug/CMakeFiles/rebuild_cache.dir
